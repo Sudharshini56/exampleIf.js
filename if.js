@@ -63,3 +63,25 @@ console.log(d)
 e = 500
 e /= 100
 console.log(e)
+
+//comparison operators
+//Special Numbers
+
+//5/0 , a=5/0 Infinity
+// 0/0 NaN, Let b undefined, Math.sqrt(-1) NaN, 
+/*
+a=3
+typeof=a
+
+a= "name"
+typeof =a*/
+
+/*
+//Automating type converstion 
+"5"
+"5"-1
+4
+
+"six"*3
+NaN
+*/
