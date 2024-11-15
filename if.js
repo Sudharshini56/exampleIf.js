@@ -41,3 +41,25 @@ console.log(a)
 a = 200
 a-- //post decrement
 console.log(a)
+
+//Assigment Operator
+
+a = 100
+a += 200
+console.log(a)
+
+b = 200
+b -= 100
+console.log(b)
+
+c = 200
+c **= 2
+console.log(c)
+
+d = 50
+d %= 2
+console.log(d)
+
+e = 500
+e /= 100
+console.log(e)
