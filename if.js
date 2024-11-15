@@ -20,3 +20,24 @@ console.log(a / b)
 console.log(a * b)
 console.log(a ** 2)
 console.log(a * b + a - b) //a*(b+a)-a
+
+
+//pre increment, pre decerement
+
+a = 10
+    ++a //pre increment
+console.log(a)
+
+a = 20
+    --a //pre decrement
+console.log(a)
+
+//post increment, post decerement
+
+a = 100
+a++ //post increment
+console.log(a)
+
+a = 200
+a-- //post decrement
+console.log(a)
